@@ -31,6 +31,10 @@
 		{
 			img: 'https://res.cloudinary.com/terieyenike/image/upload/v1659047061/image-grid/giancarlo-corti-hWpHAslIJjc-unsplash.jpg',
 			id: 8
+		},
+		{
+			img: 'https://res.cloudinary.com/terieyenike/image/upload/v1651446129/image-grid/pexels-tobi-758773_sydxon.jpg',
+			id: 9
 		}
 	];
 </script>
